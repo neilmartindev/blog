@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>My New Hugo Site</title>
-    <link>https://neilmartindev.github.io/blog/</link>
+    <link>https://martinlabs.io/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Dec 2023 16:19:49 +0000</lastBuildDate><atom:link href="https://neilmartindev.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Dec 2023 16:19:49 +0000</lastBuildDate><atom:link href="https://martinlabs.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://neilmartindev.github.io/blog/docs/test/</link>
+      <link>https://martinlabs.io/docs/test/</link>
       <pubDate>Thu, 14 Dec 2023 16:19:49 +0000</pubDate>
       
-      <guid>https://neilmartindev.github.io/blog/docs/test/</guid>
+      <guid>https://martinlabs.io/docs/test/</guid>
       <description>This is a test page</description>
     </item>
     
