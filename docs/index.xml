@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Docs on My New Hugo Site</title>
+    <title>Docs on Martin Labs</title>
     <link>https://martinlabs.io/docs/</link>
-    <description>Recent content in Docs on My New Hugo Site</description>
+    <description>Recent content in Docs on Martin Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Dec 2023 16:19:49 +0000</lastBuildDate><atom:link href="https://martinlabs.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Dec 2023 23:09:31 +0000</lastBuildDate><atom:link href="https://martinlabs.io/docs/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://martinlabs.io/docs/test/</link>
-      <pubDate>Thu, 14 Dec 2023 16:19:49 +0000</pubDate>
+      <title>Looking Back on 2023</title>
+      <link>https://martinlabs.io/docs/131223/</link>
+      <pubDate>Wed, 13 Dec 2023 23:09:31 +0000</pubDate>
       
-      <guid>https://martinlabs.io/docs/test/</guid>
-      <description>This is a test page</description>
+      <guid>https://martinlabs.io/docs/131223/</guid>
+      <description>What a year! I started off this year knowing very little about Openstack, Ansible and Terraform to presenting at the Computing Insight 2023 conference on the topic of Automated Deployment of Manufacturing Use-Cases through Openstack HPC. This demonstrated how we (The Manufacturing Technology Centre) managed to develop a platform that gave our engineers more autonomy via self-service infrastructure, allowing the Informatics and Modelling and Simulation teams to spend less time requesting their compute and more time doing their project work.</description>
     </item>
     
   </channel>

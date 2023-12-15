@@ -1,20 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Martin Labs</title>
     <link>https://martinlabs.io/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Martin Labs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 14 Dec 2023 16:19:49 +0000</lastBuildDate><atom:link href="https://martinlabs.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Dec 2023 23:09:31 +0000</lastBuildDate><atom:link href="https://martinlabs.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>https://martinlabs.io/docs/test/</link>
-      <pubDate>Thu, 14 Dec 2023 16:19:49 +0000</pubDate>
+      <title>Looking Back on 2023</title>
+      <link>https://martinlabs.io/docs/131223/</link>
+      <pubDate>Wed, 13 Dec 2023 23:09:31 +0000</pubDate>
       
-      <guid>https://martinlabs.io/docs/test/</guid>
-      <description>This is a test page</description>
+      <guid>https://martinlabs.io/docs/131223/</guid>
+      <description>What a year! I started off this year knowing very little about Openstack, Ansible and Terraform to presenting at the Computing Insight 2023 conference on the topic of Automated Deployment of Manufacturing Use-Cases through Openstack HPC. This demonstrated how we (The Manufacturing Technology Centre) managed to develop a platform that gave our engineers more autonomy via self-service infrastructure, allowing the Informatics and Modelling and Simulation teams to spend less time requesting their compute and more time doing their project work.</description>
     </item>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://martinlabs.io/about/</link>
+      <pubDate>Wed, 13 Dec 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://martinlabs.io/about/</guid>
+      <description>Hello, I am Neil 🤓.
+I am a Research Engineer at the Manufacturing Technology Centre and based within Merseyside in the UK. I sit within the Informatics department and specialise in cloud computing, high performance computing and distributed systems. I mostly use Openstack and Microsoft Azure in my day-to-day work but I am keen to get my teeth stuck into AWS at some point!
+I enjoy using platforms and tools like Kubernetes, OpenTofu, Ansible to help businesses scale their infrastructure with good practice or make their overhead bureacracy chains shorter by implementing self service infrastructure.</description>
+    </item>
+    
     
   </channel>
 </rss>
