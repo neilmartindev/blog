@@ -1,4 +1,34 @@
-baseURL: "https://martinlabs.io" 
+baseURL: "https://martinlabs.io"
 languageCode: en-us
-title: My New Hugo Site
+title: Martin Labs
 theme: PaperMod
+
+enableEmoji: true
+
+params:
+  author: Neil Martin
+  homeInfoParams:
+    Title: "Neil's Engineering Alamanac"
+    Content: >
+      Welcome to my **Engineering Alamanac** 🎉 
+      This is my own personal blogging space and accountability repository for anything Cloud, Go or Kubernetes! **Martin Labs** sounded cool so I just thought I'd roll with it 😎
+
+  socialIcons:
+    - name: Github
+      url: "https://github.com/neilmartindev"
+    - name: LinkedIn
+      url: "https://www.linkedin.com/in/neil-martin-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-7319b3169/"
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+
+menu:
+  main:
+    - identifier: about
+      name: About Me
+      url: /about/
+      weight: 30
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
