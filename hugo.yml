@@ -20,7 +20,7 @@ params:
       url: "https://www.linkedin.com/in/neil-martin-%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB-7319b3169/"
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false 
 
 menu:
   main:
