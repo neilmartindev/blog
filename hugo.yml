@@ -8,10 +8,9 @@ enableEmoji: true
 params:
   author: Neil Martin
   homeInfoParams:
-    Title: "Neil's Engineering Alamanac"
+    Title: "Neil's Notebook"
     Content: >
-      Welcome to my **Engineering Alamanac** 🎉  
-      This is my own personal blogging space and accountability repository for anything I find interesting! **Martin Labs** sounded cool so I just thought I'd roll with it 😎
+     Below is some general thoughts, notes and goal posts for self accountability. Most of the notes will be based around Openstack, Azure, other cloud technologies, tools and new-found interests. 
 
   socialIcons:
     - name: Github
