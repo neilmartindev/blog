@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docs on Martin Labs 🧪</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Docs on Martin Labs 🧪</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Feb 2024 19:42:31 +0000</lastBuildDate><atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Winds, Floods &amp; Mathematics for Energy Monitoring</title>
+      <link>http://localhost:1313/docs/210224/</link>
+      <pubDate>Wed, 21 Feb 2024 19:42:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/210224/</guid>
+      <description>To improve my ability to be able to structure and plan energy modelling applications I have decided to make a start on some mathematics courses:
+College Algebra Linear Algebra Differential, Integral and Multivariable Calculus Statistics and Probability I believe this will give me a good foundation to be able to understand a number of different machine learning libraries as well as a greater understanding of what happens under the hood of various models.</description>
+    </item>
+    
+    <item>
+      <title>Openstack RBAC</title>
+      <link>http://localhost:1313/docs/300124/</link>
+      <pubDate>Tue, 30 Jan 2024 15:44:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/300124/</guid>
+      <description>Within Openstack there is a feature called security groups. These allow admins to create rules for access into their machines by defining the port number of the access protocol such as 22 for SSH or 3389 for RDP.
+From my own experience, I have witnessed a number of deployments having their own security groups for each project, which makes sense initially for the seperation of interests. However, when we look at some of the common protocols such as 1433 for MS SQL for example, these are universal across many projects and creating multiple security groups for the same port.</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning Fundamentals</title>
+      <link>http://localhost:1313/docs/210124/</link>
+      <pubDate>Sun, 21 Jan 2024 15:44:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/210124/</guid>
+      <description>A quick list of my 2024 plan to gain an insight into machine learning:
+Hands-On Machine Learning with SciKit-Learn, Keras and Tensorflow
+Khan Academy College Algebra, Differential Calculus, Integral Calculus and Statistics and Probability courses
+Andrej Karpathy videos</description>
+    </item>
+    
+    <item>
+      <title>2024 Goals</title>
+      <link>http://localhost:1313/docs/120124/</link>
+      <pubDate>Fri, 12 Jan 2024 23:17:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/120124/</guid>
+      <description>A few goals for 2024 to review at the end of the year:
+Werden Sie besser in Deutsch 🇩🇪. Jetzt kann ich ein bisschen verstehen, aber es ist neu und interessant für mich. Bis Ende 2024 möchte ich mein erstes Buch auf Deutsch lesen 📖
+Get into gardening 👨🏻‍🌾
+Improve my DIY 🔨
+Make a start on my PhD 👨‍🏫
+Get certfied further in Amazon Web Services or Microsoft Azure ☁️</description>
+    </item>
+    
+    <item>
+      <title>Virtualisation on M1 Chip</title>
+      <link>http://localhost:1313/docs/171223/</link>
+      <pubDate>Sun, 17 Dec 2023 17:29:31 +0000</pubDate>
+      
+      <guid>http://localhost:1313/docs/171223/</guid>
+      <description>After becoming interested with PyPSA-Earth through a conversation with Max and watching their progress. I have been looking to deploy PyPSA-Earth on my machine locally to run some very basic power system analysis models. However, my recent move to an M1 chip means that virtualisation for this is slightly different.
+Traditionally, I would of used something similar to Virtualbox, HyperV or most recently QEMU on a host. However, due to the change I&amp;rsquo;ve had to do some exploring.</description>
+    </item>
+    
+  </channel>
+</rss>
